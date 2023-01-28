@@ -1,0 +1,30 @@
+<h5 id="description">Description</h5>
+<p>In this stage, we will finalize our game to play it with a friend! For this, we need to come up with an algorithm to check if a player has connected four pieces in a row after every click. The check must be carried out in three directions: horizontal, vertical, and diagonal. When the algorithm detects a winning move, the program should highlight these four cells so that the players can easily see who's won.</p>
+<p>We will also add the baseline background color for the cells from the start of the game and a distinct color for the cells that form a win condition. You can choose any colors that you want as long as the baseline and winning colors are different.</p>
+<p>Ensure that your program processes invalid moves in the following way. A click on a filled column should do nothing, and the player must be given another try. Additionally, a click on any cell after a game has been finished should lead to nothing.</p>
+<p>Finally, don't forget to add the reset button!</p>
+<h5 id="objectives">Objectives</h5>
+<p>In this stage, implement the following features:</p>
+<ol>
+<li>Add the baseline color for all cells at the start of the application;</li>
+<li>Add a reset button that extends the <code class="java">JButton</code> named <code class="java">ButtonReset</code>. The button should be enabled. Clicking on it should clear all cells and return them to their baseline color;</li>
+<li>Check if either player has connected four in a row vertically, horizontally, or diagonally after each move;</li>
+<li>Once a winner has been detected, change the color of the four winning cells to the winning color. The baseline color and the winning color should be two different colors;</li>
+<li>A click on any board cell in any filled column must lead to nothing. The gameplay continues with the same player's turn;</li>
+<li>A click on any board cell once a game is finished must lead to nothing.</li>
+</ol>
+<h5 id="examples">Examples</h5>
+<p><strong>Example 1: </strong><em>starting the application</em></p>
+<p style="text-align: center;"><img alt="" height="558" name="Stage 4 Board Start.jpg" src="https://ucarecdn.com/e3d4622c-1191-4b40-b6b9-41625e2d0434/" width="541"/></p>
+<p><strong>Example 2: </strong><em>the first </em><em>click on A6</em></p>
+<p style="text-align: center;"><img alt="" height="563" name="Stage 4 First move.jpg" src="https://ucarecdn.com/197266de-cc00-4006-8f1c-afaf0545711c/" width="545"/></p>
+<p><strong>Example 3:</strong> <em>the second click on A6</em></p>
+<p style="text-align: center;"><img alt="" height="570" name="Stage 4 Second move.jpg" src="https://ucarecdn.com/cf099ae7-1369-4e85-8cd0-ddf2fc737eb1/" width="547"/></p>
+<p><strong>Example 4:<em> </em></strong><em>several moves later</em></p>
+<p style="text-align: center;"><img alt="" height="572" name="Stage 4 X wins horizontal.jpg" src="https://ucarecdn.com/02357097-0666-44f5-a73d-61760d3d86a3/" width="549"/></p>
+<p><strong>Example 5: </strong><em>after pressing the reset button</em></p>
+<p style="text-align: center;"><img alt="" height="575" name="Stage 4 Board Start.jpg" src="https://ucarecdn.com/7035f11f-283f-4f1c-8d99-be457ea27799/" width="557"/></p>
+<p><strong>Example 6: </strong><em>several moves later</em></p>
+<p style="text-align: center;"><img alt="" height="577" name="Stage 4 O wins vertical.jpg" src="https://ucarecdn.com/7983887d-8de9-4d51-8959-9a4314c42021/" width="558"/></p>
+<p><strong>Example 7: </strong><em>after resetting and several moves</em></p>
+<p style="text-align: center;"><img alt="" height="580" name="Stage 4 X wins diagonal.jpg" src="https://ucarecdn.com/697e056b-05b4-4f8f-b26b-c0c79298e43e/" width="563"/></p>

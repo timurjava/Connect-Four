@@ -1,0 +1,7 @@
+type: framework
+content:
+- Setting up the board
+- Placing the pieces
+- Filling the board
+- Players Ready
+current_task: 3

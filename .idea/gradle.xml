@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Desktop Connect Four/task" />
+            <option value="$PROJECT_DIR$/Desktop Connect Four/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Desktop Connect Four/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Desktop Connect Four/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Desktop Connect Four/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Desktop Connect Four/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Desktop Connect Four/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/About abstract classes" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Users and WebSites" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/An anonymous class with three methods" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/And always these rules" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Capture variables" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Implement Runnable" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Creating list" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/How to get an element by the index" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Output the list's elements" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Theory" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/What ArrayList can store" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Inverse boolean flags" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/What does the method print" />
+            <option value="$PROJECT_DIR$/Topics/Boxing and unboxing/Autoboxing int" />
+            <option value="$PROJECT_DIR$/Topics/Boxing and unboxing/Only true or false" />
+            <option value="$PROJECT_DIR$/Topics/Boxing and unboxing/Safe converting" />
+            <option value="$PROJECT_DIR$/Topics/Boxing and unboxing/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Boxing and unboxing/Wrapper classes for char and int" />
+            <option value="$PROJECT_DIR$/Topics/Branching statements/A suitable output" />
+            <option value="$PROJECT_DIR$/Topics/Branching statements/The integer barrier" />
+            <option value="$PROJECT_DIR$/Topics/Branching statements/The same results" />
+            <option value="$PROJECT_DIR$/Topics/Branching statements/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Geometric cube" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Custom exceptions/Custom exceptions features" />
+            <option value="$PROJECT_DIR$/Topics/Custom exceptions/DriverNotReadyException" />
+            <option value="$PROJECT_DIR$/Topics/Custom exceptions/Square class" />
+            <option value="$PROJECT_DIR$/Topics/Custom exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Implement a default method" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Resolve a diamond problem" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/What is a result" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/A lambda expression with seven arguments" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/An invalid way to create a functional interface" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/Built-in classes" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/Ternary predicate" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/The requirement" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Boxes are not just objects" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Initialize an object of a generic class" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Instance without type argument" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/What is a type" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/What is wrong" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Correct the program" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Type arguments - 2" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Boxes" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Find the sum" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Select loops" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Expressions" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Max of two integers" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Next even number" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Method references/A method reference" />
+            <option value="$PROJECT_DIR$/Topics/Method references/Ascending and descending sorting" />
+            <option value="$PROJECT_DIR$/Topics/Method references/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Fill the matrix by numbers" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Indexing rules" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Multidimensional array features" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Symmetric matrix" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/The third row" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Digits from 0 to 9 backwards" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/The result of a Tic-Tac-Toe game" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Template method/A disadvantage" />
+            <option value="$PROJECT_DIR$/Topics/Template method/Build a house" />
+            <option value="$PROJECT_DIR$/Topics/Template method/Template Method" />
+            <option value="$PROJECT_DIR$/Topics/Template method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Template method/What does it do" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Bank account" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Fix the non-compiled hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/When the keyword is used" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Why we use the super keyword" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throw an IOException" />
+            <option value="$PROJECT_DIR$/Topics/Window listeners/Add a window" />
+            <option value="$PROJECT_DIR$/Topics/Window listeners/Closing the window" />
+            <option value="$PROJECT_DIR$/Topics/Window listeners/Implement a listener" />
+            <option value="$PROJECT_DIR$/Topics/Window listeners/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Window listeners/WindowListener Interface requirements" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
